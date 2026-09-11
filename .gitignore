@@ -1,0 +1,7 @@
+# C++ compiled executables
+Bin/
+*.out
+*.exe
+
+# Mac system files
+.DS_Store
